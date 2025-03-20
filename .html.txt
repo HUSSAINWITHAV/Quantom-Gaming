@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quantam Gaming</title>
+    <title>Quantom Gaming</title>
     <style>
         body { text-align: center; font-family: Arial, sans-serif; background: #121212; color: white; }
         .games-container { display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px; }
@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Quantam Gaming</h1>
+    <h1>Welcome to Quantom Gaming</h1>
     <p>Play amazing online games for free!</p>
     
     <div class="games-container">
