@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Gaming</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Quantum Gaming</div>
+        <input type="text" class="search-bar" placeholder="Search">
+        <button class="login-btn">Log in</button>
+    </header>
+    <main>
+        <section class="featured">
+            <h2>Featured Games</h2>
+            <div class="game-grid">
+                <div class="game">
+                    <img src="game1.jpg" alt="Game 1">
+                    <h3>Game 1</h3>
+                </div>
+                <div class="game">
+                    <img src="game2.jpg" alt="Game 2">
+                    <h3>Game 2</h3>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
