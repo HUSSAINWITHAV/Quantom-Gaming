@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quantum Gaming</title>
+    <title>Quantom Gaming</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <div class="logo">Quantum Gaming</div>
+        <div class="logo">Quantom Gaming</div>
         <input type="text" class="search-bar" placeholder="Search">
         <button class="login-btn">Log in</button>
     </header>
